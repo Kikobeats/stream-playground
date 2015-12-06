@@ -1,0 +1,35 @@
+{
+  "name": "stream-playground",
+  "description": "my stream playground",
+  "homepage": "https://github.com/Kikobeats/stream-playground",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "Kikobeats/stream-playground",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/stream-playground/issues"
+  },
+  "keywords": [],
+  "dependencies": {
+    "concat-stream": "~1.5.1",
+    "duplexify": "~3.4.2",
+    "inherits": "~2.0.1",
+    "jsonstream2": "~1.1.1",
+    "readable-stream": "~2.0.4",
+    "through": "~2.3.8",
+    "through2": "~1.1.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "license": "MIT"
+}
