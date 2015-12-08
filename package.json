@@ -31,5 +31,6 @@
   "scripts": {
     "test": "sh test/test.sh"
   },
+  "private": true,
   "license": "MIT"
 }
