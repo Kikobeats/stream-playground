@@ -21,7 +21,7 @@
     "jsonstream2": "~1.1.1",
     "readable-stream": "~2.0.4",
     "through": "~2.3.8",
-    "through2": "~1.1.1"
+    "through2": "~3.0.1"
   },
   "devDependencies": {},
   "engines": {
