@@ -18,7 +18,7 @@
     "concat-stream": "~1.5.1",
     "duplexify": "~3.4.2",
     "inherits": "~2.0.1",
-    "jsonstream2": "~1.1.1",
+    "jsonstream2": "~3.0.0",
     "readable-stream": "~2.0.4",
     "through": "~2.3.8",
     "through2": "~1.1.1"
