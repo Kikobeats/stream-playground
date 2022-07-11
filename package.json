@@ -19,7 +19,7 @@
     "duplexify": "~4.1.1",
     "inherits": "~2.0.4",
     "jsonstream2": "~3.0.0",
-    "readable-stream": "~3.6.0",
+    "readable-stream": "~4.1.0",
     "through": "~2.3.8",
     "through2": "~4.0.2"
   },
